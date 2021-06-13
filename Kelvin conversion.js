@@ -1,4 +1,4 @@
-#codecademy kelvin conversion
+#codecademy kelvin conversion.js
 
 // create a constant variable kelvin with a temperature
 const kelvin = 0;
